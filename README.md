@@ -1,16 +1,15 @@
-### Hi there 👋
+###Hi there 👋
 
-<!--
-**daniellaaiddie/daniellaaiddie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-👋 Hi, I'm Daniella from SAYNA, It's digital school to learn all digitals jobs with a good family spirit and game way.
+-🧠 I'm interested in Marketing digital but i am not digital marketing specialist.
+-👩‍💻 I'm currently learning all things about marketing digital and specifically now to learn it.
+-👥 I'm looking to collaborate on many projects to see all the methodoly development in the world, good luck for me !
+-📬 How to reach me: daniellaaiddie@gmail.com
 
-Here are some ideas to get you started:
+<br> <br>
+- More about SAYNA: https://learn.sayna.io/<br>
+- More about me: https://www.linkedin.com/in/daniella-hajanirina-a21858238/
+  <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+--->To the pleasure of exchanging and/or collaborating together <---
